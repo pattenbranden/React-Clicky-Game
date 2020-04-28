@@ -1,0 +1,12 @@
+.row{
+    background-color: beige;
+    padding-left: 3vw;
+    padding-bottom: 30px;
+    border: 15px groove black;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.message-display{
+    background-color: beige;
+    border-bottom: 5px solid black;
+}

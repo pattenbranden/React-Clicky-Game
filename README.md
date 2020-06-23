@@ -26,8 +26,8 @@ A step by step series of examples that tell you how to get a development env run
 
 * Clone the github repository to your local machine using 'git clone' command within the GitBash terminal.
 * Navigate to the directory you cloned the repository to via your command terminal using 'cd'.
-* install the packages using 'npm install'.
-* start the application with 'npm start'.
+* Install the packages using 'npm install'.
+* Start the application with 'npm start'.
 
 You should have a browser window open with the locally run application.
 

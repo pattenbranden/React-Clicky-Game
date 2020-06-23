@@ -39,14 +39,15 @@ You should have a browser window open with the locally run application.
 * [React](https://www.npmjs.com/package/react) - The Javascript library pioneered by tech giant Facebook.
 * [Node](Nodejs.org) - The Javascript enviornment used for development of this application.
 * [Node Package Manager](https://www.npmjs.com/) - Used to manage the different Javascript packages used in this application.
-* [Bootstrap](https://getbootstrap.com/) - the CSS library used to help make stylizing the application easier.
+* [Bootstrap](https://getbootstrap.com/) - The CSS library used to help make stylizing the application easier.
+* [Express](https://www.npmjs.com/package/express) - Used to manage HTTP requests and deliver content.
 
 
 ## Authors
 
 * **Branden Patten** - *Initial work* - [PattenBranden](https://github.com/pattenbranden)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/pattenbranden/React-Clicky-Game/graphs/contributors) who participated in this project.
 
 ## License
 

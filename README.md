@@ -42,16 +42,9 @@ Add additional notes about how to deploy this on a live system
 * [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html) - A package that assembles a basic React application to then be fleshed out.
 * [React](https://www.npmjs.com/package/react) - The Javascript library pioneered by tech giant Facebook.
 * [Node](Nodejs.org) - The Javascript enviornment used for development of this application.
-* [Npde Package Manager](https://www.npmjs.com/) - Used to manage the different Javascript packages used in this application.
+* [Node Package Manager](https://www.npmjs.com/) - Used to manage the different Javascript packages used in this application.
 * [Bootstrap](https://getbootstrap.com/) - the CSS library used to help make stylizing the application easier.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 

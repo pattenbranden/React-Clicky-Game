@@ -11,7 +11,7 @@ Open [the live demonstration](https://pattenbranden.github.io/PS2-clicky-game-re
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* [Git](https://gitforwindows.org/)
 
 * [Node.js](Nodejs.org)
 
@@ -24,8 +24,8 @@ What things you need to install the software and how to install them
 
 A step by step series of examples that tell you how to get a development env running
 
-* Clone the repository to your local machine using 'git clone'.
-* Navigate to the directory you cloned the repository to via your command terminal.
+* Clone the github repository to your local machine using 'git clone' command within the GitBash terminal.
+* Navigate to the directory you cloned the repository to via your command terminal using 'cd'.
 * install the packages using 'npm install'.
 * start the application with 'npm start'.
 

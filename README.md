@@ -48,8 +48,3 @@ You should have a browser window open with the locally run application.
 * **Branden Patten** - *Initial work* - [PattenBranden](https://github.com/pattenbranden)
 
 See also the list of [contributors](https://github.com/pattenbranden/React-Clicky-Game/graphs/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-

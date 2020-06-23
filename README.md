@@ -15,27 +15,23 @@ Open [the live demonstration](https://pattenbranden.github.io/PS2-clicky-game-re
 
 What things you need to install the software and how to install them
 
-Node.JS
-Node Package Manager
+* [Node.js](Nodejs.org)
+
+* Node Package Manager (Installed with Node.js)
+
+* A Web-browser
 
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+* Clone the repository to your local machine using 'git clone'.
+* Navigate to the directory you cloned the repository to via your command terminal.
+* install the packages using 'npm install'.
+* start the application with 'npm start'.
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+You should have a browser window open with the locally run application.
 
 ## Deployment
 
@@ -43,9 +39,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html) - A package that assembles a basic React application to then be fleshed out.
+* [React](https://www.npmjs.com/package/react) - The Javascript library pioneered by tech giant Facebook.
+* [Node](Nodejs.org) - The Javascript enviornment used for development of this application.
+* [Npde Package Manager](https://www.npmjs.com/) - Used to manage the different Javascript packages used in this application.
+* [Bootstrap](https://getbootstrap.com/) - the CSS library used to help make stylizing the application easier.
 
 ## Contributing
 

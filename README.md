@@ -33,10 +33,6 @@ A step by step series of examples that tell you how to get a development env run
 
 You should have a browser window open with the locally run application.
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html) - A package that assembles a basic React application to then be fleshed out.

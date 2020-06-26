@@ -5,6 +5,8 @@ Clicking an image more than once results in a loss, and the game will reset.
 The images shuffle in between clicks to make the game a challenge!
 See if you can get them all!
 
+![Clicky Game Image](https://aqueous-bayou-30364.herokuapp.com/images/ps2-cliky-game.PNG)
+
 ## Getting Started
 
 Open [the live demonstration](https://pattenbranden.github.io/PS2-clicky-game-react/) in your browser.

@@ -26,7 +26,7 @@ class GameContainer extends Component {
       this.shuffleCards(this.state.cardData)
       return this.setState({
         score: 0,
-        message: "Womp, Try Again."
+        message: "You double-clicked on a card! the game has reset :("
       });
     } else {
       cardOrderArray.forEach((image, index) => {

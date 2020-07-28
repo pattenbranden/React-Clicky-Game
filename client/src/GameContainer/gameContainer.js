@@ -26,7 +26,7 @@ class GameContainer extends Component {
       this.shuffleCards(this.state.cardData)
       return this.setState({
         score: 0,
-        message: "Womp, try again."
+        message: "Womp, Try Again."
       });
     } else {
       cardOrderArray.forEach((image, index) => {
@@ -38,10 +38,19 @@ class GameContainer extends Component {
         const { highscore, score } = this.state;
         const newScore = score + 1;
         const newHighscore = newScore > highscore ? newScore : highscore;
+        
+        
         return this.setState({
           message: "You Guessed Correctly!",
           score: newScore,
           highscore: newHighscore,
+            
+        if (this.score === 15){
+          
+        return this.setState({
+          message: "You Win! You didn't double-click a single one, awesome!"
+            
+            }
         });
       });
     }

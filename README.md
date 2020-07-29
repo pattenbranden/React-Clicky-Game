@@ -31,7 +31,7 @@ A step by step series of examples that tell you how to get a development env run
 * Install the packages using 'npm install'.
 * Start the application with 'npm start'.
 
-You should have a browser window open with the locally run application.
+A browser window should open automatically with the locally run application.
 
 ## Built With
 
